@@ -1,5 +1,10 @@
 package com.smallT.utils;
 
+/**
+ * test
+ * @author Administrator
+ *
+ */
 public class Msg {
 	private  boolean isSuss;
 	private  String message;
