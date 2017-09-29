@@ -11,7 +11,7 @@ import com.smallT.utils.Msg;
  * mactest,登录
  * 合并测试
  * @author superk
- *
+ *k-1分支测试与合并
  */
 @Controller
 @RequestMapping("/userLogin")
