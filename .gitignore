@@ -34,3 +34,4 @@ _ReSharper*/
 /.apt_generated/
 *.class
 class*/
+/build/

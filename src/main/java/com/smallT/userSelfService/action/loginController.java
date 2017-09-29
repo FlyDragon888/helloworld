@@ -7,6 +7,11 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import com.smallT.userSelfService.entity.User;
 import com.smallT.utils.Msg;
 
+/**
+ * mactest,登录
+ * @author superk
+ *
+ */
 @Controller
 @RequestMapping("/userLogin")
 public class loginController {
