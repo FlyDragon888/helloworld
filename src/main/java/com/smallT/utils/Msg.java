@@ -3,7 +3,7 @@ package com.smallT.utils;
 /**
  * test555555
  * @author Administrator
- *
+ *master修改
  */
 public class Msg {
 	private  boolean isSuss;
