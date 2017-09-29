@@ -12,6 +12,12 @@ import com.smallT.userSelfService.entity.User;
 import com.smallT.userSelfService.service.RegisterService;
 import com.smallT.utils.Msg;
 
+/**
+ * 测试分支与master合并
+ * @author superk
+ *
+ */
+
 @Controller
 @RequestMapping("/userSelfService")
 public class RegisterController {
