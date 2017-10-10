@@ -1,9 +1,9 @@
 package com.smallT.utils;
 
 /**
- * test555555
+ * test
  * @author Administrator
- *
+ *master修改
  */
 public class Msg {
 	private  boolean isSuss;
